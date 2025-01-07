@@ -54,6 +54,10 @@
       onStart = {
         # Example: start a background task to watch and re-build backend code
         # watch-backend = "npm run watch-backend";
+        active-venv = ''
+        source .venv/bin/activate
+        pip install -r requirements.txt
+        '';
       };
     };
   };
