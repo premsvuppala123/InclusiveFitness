@@ -1,0 +1,76 @@
+1 : CARDINAL
+the american psychological association of graduate students committee : ORG
+2 : CARDINAL
+three : CARDINAL
+3 : CARDINAL
+dr derald wing sue : PERSON
+daily : DATE
+4 : CARDINAL
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+lesbian couple : PERSON
+one : CARDINAL
+5 : CARDINAL
+dr kevin : PERSON
+city university of new york : ORG
+kimber shelton : PERSON
+seven : CARDINAL
+6 : CARDINAL
+smith shin : ORG
+2012 : DATE
+7 : CARDINAL
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+8 : CARDINAL
+one : CARDINAL
+9 : CARDINAL
+one : CARDINAL
+10 : CARDINAL
+one : CARDINAL
+one : CARDINAL
+apa : ORG
+11 : CARDINAL
+one : CARDINAL
+12 : CARDINAL
+heterosexismtransphobia : PERSON
+13 : CARDINAL
+one : CARDINAL
+14 : CARDINAL
+15 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+16 : CARDINAL
+17 : CARDINAL
+balsam kf molina y beadnell : PERSON
+17 : CARDINAL
+2 163174 : DATE
+dragowski ea rubinson f 2013 : PERSON
+12 726 nadal : QUANTITY
+issa ma leon : PERSON
+2011 : DATE
+a thousand : CARDINAL
+lgbt youth : ORG
+8 3 : DATE
+2012 : DATE
+lgbt : ORG
+6 1 : DATE
+issa ma : PERSON
+2011 : DATE
+lgbt : ORG
+5 2146 : DATE
+60 10111034 : DATE
+shelton k delgadoromero ea : PERSON
+2011 : DATE
+lesbian : NORP
+58 : CARDINAL
+2012 : DATE
+lgb : GPE
+wright : PERSON
+2012 : DATE
+lgb : ORG
+lgbt : ORG
+6 1 3454 : CARDINAL
+18 : CARDINAL
+the american psychological association of graduate students’ committee : ORG

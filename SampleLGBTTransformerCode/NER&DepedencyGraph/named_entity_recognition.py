@@ -26,8 +26,11 @@ if preprocessed_text:
   ner_entities = extract_ner(preprocessed_text)
   if ner_entities:
     print("Named entities:")
+    file = open('SampleLGBTTransformerCode/NER&DepedencyGraph/named_entities.txt', 'w')
     for entity, label in ner_entities:
       print(f"{entity}: {label}")
+      file.write(str(entity) + " : " + str(label)+"\n")
+    file.close()
   else:
     print("No named entities found.")
 
